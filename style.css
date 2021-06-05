@@ -1,0 +1,55 @@
+body{
+    background-image: url("background.jpg");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    color: rgb(230, 132, 148);
+    font-size: 64px;
+    padding: 50px 20px;
+}
+.calc{
+    margin: auto;
+   padding: auto;
+  
+    align-items: center;
+    height: 100%;
+}
+
+.inputs{
+    align-items: center;
+    text-align: center;
+}
+
+
+.inputs input{
+    padding: auto;
+    margin:10px 20px;
+    height: 40px;
+    border-bottom: rebeccapurple;
+    border-radius: 23px;
+ 
+
+}
+
+.inputs label{
+    color: white;
+    font-size: 25px;
+}
+.btn{
+    margin: 30px;
+}
+
+.output{
+    text-align: center;
+    align-items: center;
+    font-family: 'Caveat', cursive;
+}
+
+h3{
+    font-size: 40px;
+}
+
